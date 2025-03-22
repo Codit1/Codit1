@@ -15,6 +15,8 @@
 
 🔗 X: https://x.com/NattyCrown70815?s=09
 
+🔗 Portfolio: https://natty-crown.vercel.app/
+
 ## 🛠️ Tech Stack
 - 💻 Frontend: React, Js, Css, TailWind
 - 🖥️ Backend: Python, FastAPI
