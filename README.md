@@ -4,30 +4,27 @@
 
 ## 🚀 About Me
 
-**Full Stack Web Developer** ✨With 3 years of experience ✨
+**Full Stack Web Developer** ✨With 4+ years of experience ✨
 
 ## 🌐 Connect with me
 🔗 Email: crownnatty@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/natty-crown-9a077b275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-🔗 FaceBook: https://www.facebook.com/profile.php?id=100086710699693
-
-🔗 X: https://x.com/NattyCrown70815?s=09
+🔗 LinkedIn: www.linkedin.com/in/nathaniel-stephen
 
 🔗 Portfolio: https://natty-crown.vercel.app/
 
 ## 🛠️ Tech Stack
-- 💻 Frontend: React, Js, Css, TailWind
+- 💻 Frontend: React, Js, Css, TailWind, MantineUi
 - 🖥️ Backend: Python, FastAPI
-- 💾 Database: PostgreSQL
+- 💾 Database: PostgreSQL, Redis
 - 🛢️ Other Resources: Git, Redis, Docker, FireBase
 
 
-##🔭 I’m currently working on ...
-- 🔗(RentMe-FullStack app)  https://rent-me-app.vercel.app
-- 🔗(Jephthah) https://jephthahtask.vercel.app/
-- 🔗(LiaScent Ecommerce) https://codit1.github.io/ecommerce/
+##🔭 My Works
+- 🔗(Putups-FullStack app)  https://putups.app
+- 🔗(Bumasel) https://bumasel.com
+- 🔗(HealthStreetnc) https://healthstreetnc.com
+- 🔗(DataLens) https://datalens-psi.vercel.app/
 - 
 
 - 
